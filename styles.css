@@ -3,9 +3,34 @@ ul {
 }
 
 body {
-  background-color: #50B2C0;
+  background-color: #201e1f;
 }
 
-h1 {
-  color: #FEEFDD;
+h1, h2 {
+  color: #84714F;
+}
+
+a {
+  -webkit-text-decoration: wavy;
+          text-decoration: wavy;
+  color: #50b2c0;
+}
+
+a :hover, a :active {
+  color: cyan;
+}
+
+p {
+  font-size: large;
+  color: #E3D888;
+}
+
+#navigation {
+  background-color: #FEEFDD;
+}
+#navigation li {
+  margin: 1%;
+  padding: 1%;
+  list-style: georgian;
+  text-align: justify;
 }/*# sourceMappingURL=styles.css.map */
