@@ -33,4 +33,11 @@ p {
   padding: 1%;
   list-style: georgian;
   text-align: justify;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
 }/*# sourceMappingURL=styles.css.map */
