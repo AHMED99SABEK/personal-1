@@ -1,5 +1,7 @@
-ul{
-    color: lightcoral;
+nav{
+    background-color: lightcoral;
+    width: auto;
+    height: 3%;
 }
 body{
     background-color: #201e1f;
@@ -17,16 +19,6 @@ a :hover, a :active{
 p{
     font-size: large;
     color: #E3D888;
-}
-#navigation 
-{
-    background-color: #FEEFDD;
-    align-items: last baseline;
-    li{
-        margin: 1%;
-        padding: 1%;
-        list-style: georgian;
-    }
 }
 div{
     display: flex;
